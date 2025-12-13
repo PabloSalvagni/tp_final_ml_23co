@@ -20,4 +20,7 @@
     - El entregable debe venir con el código acompañado para su reproducibilidad.
     - En su cierre debe dar una reflexión de su investigación y proponer nuevos caminos de resolución en el caso de que sea necesario.
     - Como última fecha de entrega del trabajo, estará limitado a 7 días posteriores a la última clase.
-    - La entrega es por el aula virtual, ya sea el envío del contenido o el link a repositorio (de GitHub o GitLab) con el trabajo.◊
+    - La entrega es por el aula virtual, ya sea el envío del contenido o el link a repositorio (de GitHub o GitLab) con el trabajo.
+
+    
+🔗  [Notebook con el TP Entregable](tp_amaq1.ipynb)
